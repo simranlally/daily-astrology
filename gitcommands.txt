@@ -7,3 +7,8 @@ git commit -m "Here is message"   // Commit to local repo
 git push                          // Bridge from local to remote server
 
 git pull                          // Receive remote server changes
+
+// To update your branch with another branch do the following in order:
+    git pull
+    git merge origin/{name of the branch you want the new shit from}
+    git push
