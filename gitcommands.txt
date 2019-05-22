@@ -1,0 +1,9 @@
+git commands
+
+git add .                         // Add files
+
+git commit -m "Here is message"   // Commit to local repo
+
+git push                          // Bridge from local to remote server
+
+git pull                          // Receive remote server changes
