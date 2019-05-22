@@ -1,1 +1,1 @@
-"# daily-astrology" 
+# daily-astrology
