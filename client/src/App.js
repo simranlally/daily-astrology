@@ -1,22 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
+import jimmy from './princeofconcordia.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={jimmy} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I deadass set the front end up for you bums.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://material-ui.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Show Sim BootStrap or Material-UI for styled React Components.
         </a>
       </header>
     </div>

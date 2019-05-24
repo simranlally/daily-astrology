@@ -1,0 +1,23 @@
+{
+  "name": "daily-astrology",
+  "version": "1.0.0",
+  "description": "Daily Astrology built by REALZ (That includes the Prince Of Concordia)",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo Prince Of Concordia\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simranlally/daily-astrology.git"
+  },
+  "keywords": [
+    "astrology",
+    "horoscope"
+  ],
+  "author": "REALZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simranlally/daily-astrology/issues"
+  },
+  "homepage": "https://github.com/simranlally/daily-astrology#readme"
+}
