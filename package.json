@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/simranlally/daily-astrology/issues"
   },
-  "homepage": "https://github.com/simranlally/daily-astrology#readme"
+  "homepage": "https://github.com/simranlally/daily-astrology#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
